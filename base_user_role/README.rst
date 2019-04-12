@@ -69,6 +69,7 @@ Contributors
 
 * Sébastien Alix <sebastien.alix@osiell.com>
 * Duc, Dao Dong <duc.dd@komit-consulting.com> (https://komit-consulting.com)
+* Harald Panten <harald.panten@qubiq.es>
 
 Do not contact contributors directly about support or help with technical issues.
 
